@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/circle_background_todisable.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/circle_background_topause.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/circle_background_toplay.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/close_icon.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/dimens.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/drawable/map_icon.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/activity_forgot_password.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/activity_record.xml" value="0.22" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/activity_terms.xml" value="0.11503623188405797" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/52747/Desktop/Moviles/WildRunning/app/src/main/res/menu/order_records_by.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

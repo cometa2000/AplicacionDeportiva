@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611566987756",
+    "project_id": "appdeport-8ab3b",
+    "storage_bucket": "appdeport-8ab3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611566987756:android:9e880b9a407c67fd9738c9",
+        "android_client_info": {
+          "package_name": "com.example.appdeport"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatrYf9eFehZNKQf_tVV0EWqBeOegqzCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611566987756:android:d9b4d0b998298d899738c9",
+        "android_client_info": {
+          "package_name": "com.example.wildrunning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatrYf9eFehZNKQf_tVV0EWqBeOegqzCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
